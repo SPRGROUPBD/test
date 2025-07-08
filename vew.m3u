@@ -9,5 +9,16 @@
       "origin": "https://bldcmprod-cdn.toffeelive.com",
       "referrer": "",
       "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc"
-    }
+    },
+{
+    "name": "Cartoon Network",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1752122562:KeyName=prod_linear:Signature=Y16YeXyeqTHbssJ49Bub1uvBQdcXaSljPFZFA7l0L2QdE9EAt2PX667J7qQKJ6JQPuzZBlvSwx4OPraogo2zCg",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
 ]
